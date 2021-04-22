@@ -1,16 +1,16 @@
-1. Name: Shpilko Ilya
+# Name: Shpilko Ilya
 
-2. Contact Information:
+### 1. Contact Information:
 Address: Saratov region, city of Engels
 Phone: 8 (905) 383-38-75
 @email: shpilkoilya@icloud.com
 github: https://github.com/IlyaShpilko
 
-3. Resume (your goal, wishes, reveal what is important to you, what you want and why.
+### 2. Resume (your goal, wishes, reveal what is important to you, what you want and why.
 
 I dream of developing and learning something new. All my life I have always learned something and this knowledge is served to me both in everyday life and in everything I touch. In programming, too, you constantly learn something, constantly think over some ideas. Therefore, I chose this direction and want to become a programmer.
 
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools, etc.)
+### 3. Skills (e.g. programming languages, frameworks, methodologies, version control, tools, etc.)
 
 - Xcode
 - Swift
@@ -21,10 +21,8 @@ I dream of developing and learning something new. All my life I have always lear
 - GCD
 - Git
 
-5. Code Examples (LAST)
-
-'''SWIFT
-
+### 4. Code Examples (LAST)
+### SWIFT
     import UIKit
     import CoreData
 
@@ -164,15 +162,14 @@ I dream of developing and learning something new. All my life I have always lear
     func random() -> Int64{
         return Int64(Int.random(in: 0...100_000))
     }
-    '''
 
-6. Experience (for a junior developer, this means all kinds of experience: coding tests, projects from courses,
+### 5. Experience (for a junior developer, this means all kinds of experience: coding tests, projects from courses,
 freelance projects - wherever they had the opportunity to demonstrate their skills.
 It would also be great if you add links to the source code)
 Learning experience:
 - Crimea Digital Group - MOBILE IOS
 
-7. Training (including courses, seminars, lectures, online training)
+### 6. Training (including courses, seminars, lectures, online training)
 I was self-taught. Learning experience:
 - Crimean digital group - MOBILE IOS
 
