@@ -1,10 +1,10 @@
 # Name: Shpilko Ilya
 
 ### 1. Contact Information:
-Address: Saratov region, city of Engels
-Phone: 8 (905) 383-38-75
-@email: shpilkoilya@icloud.com
-github: https://github.com/IlyaShpilko
+- Address: Saratov region, city of Engels
+- Phone: 8 (905) 383-38-75
+- @email: shpilkoilya@icloud.com
+- github: https://github.com/IlyaShpilko
 
 ### 2. Resume (your goal, wishes, reveal what is important to you, what you want and why.
 
